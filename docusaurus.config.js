@@ -13,7 +13,7 @@ const config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://macbudkowski.github.io",
+  url: "https://kiwistand.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/kiwi-docs/",
@@ -43,13 +43,13 @@ const config = {
           sidebarPath: "./sidebars.js",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://https://github.com/attestate/kiwistand/",
+          editUrl: "https://github.com/attestate/kiwistand/",
         },
         // blog: {
         //   showReadingTime: true,
         //   // Please change this to your repo.
         //   // Remove this to remove the "edit this page" links.
-        //   editUrl: "https://https://github.com/attestate/kiwistand/",
+        //   editUrl: "https://github.com/attestate/kiwistand/",
         // },
         theme: {
           customCss: "./src/css/custom.css",
@@ -82,7 +82,7 @@ const config = {
             position: "left",
           },
           {
-            href: "https://https://github.com/attestate/kiwistand",
+            href: "https://github.com/attestate/kiwistand",
             label: "GitHub",
             position: "right",
           },
