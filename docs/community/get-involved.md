@@ -1,0 +1,51 @@
+---
+sidebar_position: 1
+---
+
+# How to get involved
+
+There are a few ways to get 100% out of being a part of the Kiwi community
+
+**1. Sharing Kiwi links**
+
+If you read something interesting on Kiwi or you find the conversation in the comments valuable, share it with your friends or your communities. It’s a way to ignite conversation and show the world what ideas you find interesting.
+
+**2. Curating links**
+
+You can help us by upvoting content you find valuable.
+
+So, if you read something on Kiwi and think it’s good, don’t hesitate to upvote it. However, please refrain from upvoting things you haven’t read.
+
+**3. Submitting links**
+
+Another way to help is by submitting relevant links. We wrote guidelines to inform you which links are welcome.
+
+If you are unsure if the link fits, feel free to DM us (@timdaub & macbudkowski on Telegram), and we will help you decide if it will work.
+
+**4. Telling your friends about Kiwi**
+
+Tell your friends about Kiwi. You can do it via DMs or social media such as Twitter, Farcaster, or Telegram. If you have an inclination for writing, you can also write a blog post about us or a Twitter thread.
+
+**5. Sharing product feedback**
+
+If you have any ideas about what to improve or want to report any bugs, feel free to contact us on Telegram: @timdaub & @macbudkowski
+
+If you just want to share ideas or feedback, you can just DM us.
+
+If you report a bug and have a bit more time, it’d be great if you:
+a) made a screenshot of the bug you see,
+b) shared information about the browser & wallet you use
+
+and included this information in your DM. It will help us solve the problem faster.
+
+**6. Contributing code**
+
+Our project is Open Source, which means everyone can contribute code. People like freeatnet, Alya, and the Dawn Wallet team have already submitted Pull Requests to our repo.
+
+If you want to contribute, the best way to start is by joining Kiwi Devs Chat. You can share your ideas with us, and - if they fit the roadmap - we can help you implement them.
+
+**7. Organizing Meetups**
+
+So far, we organized Kiwi meetups in Berlin, Paris, Warsaw & Istanbul. They were all organized by Tim & Mac, but you can organize meetups independently if there are many Kiwi people in your city or at the conference.
+
+If you want to do it, we’d be happy to support you - feel free to DM us!
