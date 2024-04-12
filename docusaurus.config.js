@@ -67,7 +67,7 @@ const config = {
         title: "Kiwi Docs",
         logo: {
           alt: "Kiwi Logo",
-          src: "img/kiwi_logo_docs.png",
+          src: "img/Kiwi_logo_docs.png",
         },
         items: [
           {
