@@ -10,7 +10,7 @@ sidebar_position: 1
 
 App: <u>[kiwinews.xyz](https://kiwinews.xyz)</u>
 
-GitHub: <u>[github.com/attestate/kiwistand](https://github.com/attestate/kiwistand)</u>
+GitHub: <u>[https://github.com/attestate/kiwistand](https://https://github.com/attestate/kiwistand)</u>
 
 #### Minimalistic Kiwi client maintained by freeatnet
 

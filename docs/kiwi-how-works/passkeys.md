@@ -31,4 +31,4 @@ We also reached out to Sid Coehlo from the Coinbase Wallet team, who connected u
 In a few days, we had the implementation working, and you can use it on Kiwi if you go to Settings.
 
 If you’d like to learn how this implementation works on the lower level, here’s the link to the Passkeys function on our GitHub:
-https://github.com/attestate/kiwistand/blob/737b7b218b2472a6f84e590a5af7c6a3dee6fc84/src/web/src/Passkeys.jsx
+https://https://github.com/attestate/kiwistand/blob/737b7b218b2472a6f84e590a5af7c6a3dee6fc84/src/web/src/Passkeys.jsx
