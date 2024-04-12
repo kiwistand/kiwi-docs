@@ -10,12 +10,7 @@ This NFT lets you submit, upvote, and discuss links. It also gives you access to
 
 ### How the NFT works
 
-// Change
-When you mint an NFT, your wallet address is added to the allowlist, which is basically a list of all wallet addresses that can interact with the <u>[Kiwi Protocol](/docs/kiwi-how-works/protocol)</u>.
-
-Because we put the address that mints an NFT on the allowlist, this means that - as of April 2024 - Kiwipass NFT is non-transferable. Or, to be more precise - the NFT is transferable, but if you send it to another address, the recipient won't be able to post on Kiwi.
-
-We are planning to change that in the next weeks, so stay tuned.
+Kiwipass NFT serves as an entrance ticket, that lets your wallet address interact with the <u>[Kiwi Protocol](/docs/kiwi-how-works/protocol)</u>. If a user builds their <u>[Karma score](/docs/kiwi-how-works/karma)</u>, the score is bound to their wallet address, not the NFT. This means that a user is free to sell their Kiwipass if they don't want to use it anymore.
 
 ### NFT utility
 

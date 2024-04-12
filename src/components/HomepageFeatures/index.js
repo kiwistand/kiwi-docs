@@ -5,7 +5,7 @@ import styles from "./styles.module.css";
 const FeatureList = [
   {
     title: "Public Good",
-    // image: "/img/Kiwi_docs.png",
+    // image: "/img/kiwi_docs.png",
     description: (
       <>
         Our goal is to create a space where the crypto community can exchange
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: "Decentralized & Open Source",
-    // image: "/img/Kiwi_docs.png",
+    // image: "/img/kiwi_docs.png",
     description: (
       <>
         Kiwi has been built on an open source Kiwi P2P Protocol. It means that
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: "Positive-sum games community",
-    // image: "/img/Kiwi_docs.png",
+    // image: "/img/kiwi_docs.png",
     description: (
       <>
         We are people building the decentralized future - primarily web3

@@ -11,7 +11,7 @@ Kiwi is powered by a P2P Protocol, similar to Farcaster.
 
 Our architecture is much simpler, though.
 
-When the user signs up, they mint a Kiwipass NFT. After 1-5 minutes, our indexer adds their blockchain address to the allowlist. From now on, this address can interact with the protocol.
+When the user signs up, they mint a Kiwipass NFT (they can also buy it on a secondary market). After 1-5 minutes, our indexer adds their blockchain address to the allowlist. From now on, this address can interact with the protocol.
 
 :::tip[Important]
 
@@ -23,11 +23,10 @@ How's it possible that there's no gas? Your actions, such as submissions, upvote
 
 If you'd like to dive deeper, here are two materials that you might find interesting:
 
+**Protocol documentation**:
+<u>[https://attestate.com/kiwistand/main/protocol.html](https://attestate.com/kiwistand/main/protocol.html)</u>
+
 **Video from Tim explaining how Kiwi Protocol works:**
 <YouTube youTubeId="Rys5UEi2SWg" />
-
-**Protocol documentation**:
-
-<u>[https://attestate.com/kiwistand/main/protocol.html](https://attestate.com/kiwistand/main/protocol.html)</u>
 
 export default (props) => <MDXEmbedProvider>{props.children}</MDXEmbedProvider>;

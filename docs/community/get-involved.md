@@ -18,7 +18,7 @@ So, if you read something on Kiwi and think it’s good, don’t hesitate to upv
 
 **3. Submitting links**
 
-Another way to help is by submitting relevant links. We wrote guidelines to inform you which links are welcome.
+Another way to help is by submitting relevant links. We wrote <u>[guidelines](https://news.kiwistand.com/guidelines)</u> to inform you which links are welcome.
 
 If you are unsure if the link fits, feel free to DM us (@timdaub & macbudkowski on Telegram), and we will help you decide if it will work.
 
@@ -33,8 +33,9 @@ If you have any ideas about what to improve or want to report any bugs, feel fre
 If you just want to share ideas or feedback, you can just DM us.
 
 If you report a bug and have a bit more time, it’d be great if you:
-a) made a screenshot of the bug you see,
-b) shared information about the browser & wallet you use
+
+- made a screenshot of the bug you see,
+- shared information about the browser & wallet you use
 
 and included this information in your DM. It will help us solve the problem faster.
 

@@ -38,12 +38,12 @@ attestate.com/kiwistand/main/http-api.html
 
 ### 4. Kiwi on crypto app stores
 
-**Coinbase:** <u>[https://www.coinbase.com/web3/dapps/kiwi-news](https://www.coinbase.com/web3/dapps/kiwi-news)</u>
+Coinbase: <u>[https://www.coinbase.com/web3/dapps/kiwi-news](https://www.coinbase.com/web3/dapps/kiwi-news)</u>
 
-**DappRadar:** <u>[https://dappradar.com/dapp/kiwi-news](https://dappradar.com/dapp/kiwi-news)</u>
+DappRadar: <u>[https://dappradar.com/dapp/kiwi-news](https://dappradar.com/dapp/kiwi-news)</u>
 
-**DappList:** <u>[https://thedapplist.com/project/kiwi-news](https://thedapplist.com/project/kiwi-news)</u>
+DappList: <u>[https://thedapplist.com/project/kiwi-news](https://thedapplist.com/project/kiwi-news)</u>
 
-**WalletConnect explorer:** <u>[https://explorer.walletconnect.com/kiwinews](https://explorer.walletconnect.com/kiwinews)</u>
+WalletConnect explorer: <u>[https://explorer.walletconnect.com/kiwinews](https://explorer.walletconnect.com/kiwinews)</u>
 
-**Optimism:** <u>[https://www.optimism.io/apps/daos](https://www.optimism.io/apps/daos)</u>
+Optimism: <u>[https://www.optimism.io/apps/daos](https://www.optimism.io/apps/daos)</u>
