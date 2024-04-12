@@ -62,12 +62,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: "img/Kiwi_docs.png",
+      image: "img/kiwi_docs.png",
       navbar: {
         title: "Kiwi Docs",
         logo: {
           alt: "Kiwi Logo",
-          src: "img/Kiwi_logo_docs.png",
+          src: "img/kiwi_logo_docs.png",
         },
         items: [
           {
