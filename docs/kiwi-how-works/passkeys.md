@@ -6,13 +6,13 @@ sidebar_position: 5
 
 ### What are Passkeys?
 
-Last year, Google, Apple, and Microsoft [teamed up to enable Passkeys](https://fidoalliance.org/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard-to-accelerate-availability-of-passwordless-sign-ins/). Passkeys let you sign into websites and apps by just unlocking your phone, so you don’t need to use passwords anymore.
+Last year, Google, Apple, and Microsoft <u>[teamed up to enable Passkeys](https://fidoalliance.org/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard-to-accelerate-availability-of-passwordless-sign-ins/)</u>. Passkeys let you sign into websites and apps by just unlocking your phone, so you don’t need to use passwords anymore.
 
-This is how they look in practice:
+You can see on this demo <u>[how they look in practice](https://warpcast.com/timdaub.eth/0x54a27231)</u>.
 
 ### How do Passkeys work?
 
-Here’s an [explanation](https://blog.google/inside-google/googlers/ask-a-techspert/how-passkeys-work/) from the Google team with some clarification from us:
+Here’s an <u>[explanation](https://blog.google/inside-google/googlers/ask-a-techspert/how-passkeys-work/)</u> from the Google team with some clarification from us:
 
 > “Passkeys are similar to SSL, more recently called TLS [encryption used to make websites safe - Kiwi]. But instead of systems authenticating each other, a person has the corresponding private key on their device.
 >
@@ -24,7 +24,7 @@ We wanted to implement Passkeys because about 60% of our users are on mobile dev
 
 Passkeys solve this.
 
-So when we learned that Coinbase shared the [source code](https://github.com/coinbase/smart-wallet) of their Smart Wallet with Passkeys implemented, we decided to reuse it for Kiwi.
+So when we learned that Coinbase shared the <u>[source code](https://github.com/coinbase/smart-wallet)</u> of their Smart Wallet with Passkeys implemented, we decided to reuse it for Kiwi.
 
 We also reached out to Sid Coehlo from the Coinbase Wallet team, who connected us with Harry Noble, who leads the engineering for Smart Wallet and helped us better understand their code.
 

@@ -8,25 +8,25 @@ sidebar_position: 1
 
 #### Kiwi client maintained by Tim & Mac
 
-App: [kiwinews.xyz](https://kiwinews.xyz)
+App: <u>[kiwinews.xyz](https://kiwinews.xyz)</u>
 
-GitHub: [github.com/attestate/kiwistand](https://github.com/attestate/kiwistand)
+GitHub: <u>[github.com/attestate/kiwistand](https://github.com/attestate/kiwistand)</u>
 
 #### Minimalistic Kiwi client maintained by freeatnet
 
-App: [Kiwinews.lol](https://kiwinews.lol)
+App: <u>[Kiwinews.lol](https://kiwinews.lol)</u>
 
-GitHub: [https://github.com/freeatnet/kiwinews-webapp](https://github.com/freeatnet/kiwinews-webapp)
+GitHub: <u>[https://github.com/freeatnet/kiwinews-webapp](https://github.com/freeatnet/kiwinews-webapp)</u>
 
 ### 2. NFT Contracts
 
 #### Kiwipass on OP Mainnet
 
-Contract: [https://optimistic.etherscan.io/address/0x66747bdc903d17c586fa09ee5d6b54cc85bbea45](https://optimistic.etherscan.io/address/0x66747bdc903d17c586fa09ee5d6b54cc85bbea45)
+Contract: <u>[https://optimistic.etherscan.io/address/0x66747bdc903d17c586fa09ee5d6b54cc85bbea45](https://optimistic.etherscan.io/address/0x66747bdc903d17c586fa09ee5d6b54cc85bbea45)</u>
 
 #### Hyperkiwifcation on ETH Mainnet (old NFT)
 
-Contract: [https://etherscan.io/address/0xebb154877787cbf8ae2ffe1a6cca5a50e63003786](https://etherscan.io/address/0xebb15487787cbf8ae2ffe1a6cca5a50e63003786)
+Contract:<u>[https://etherscan.io/address/0xebb154877787cbf8ae2ffe1a6cca5a50e63003786](https://etherscan.io/address/0xebb15487787cbf8ae2ffe1a6cca5a50e63003786)</u>
 
 ### 3. API
 
@@ -38,12 +38,12 @@ attestate.com/kiwistand/main/http-api.html
 
 ### 4. Kiwi on crypto app stores
 
-**Coinbase:** [https://www.coinbase.com/web3/dapps/kiwi-news](https://www.coinbase.com/web3/dapps/kiwi-news)
+**Coinbase:** <u>[https://www.coinbase.com/web3/dapps/kiwi-news](https://www.coinbase.com/web3/dapps/kiwi-news)</u>
 
-**DappRadar:** [https://dappradar.com/dapp/kiwi-news](https://dappradar.com/dapp/kiwi-news)
+**DappRadar:** <u>[https://dappradar.com/dapp/kiwi-news](https://dappradar.com/dapp/kiwi-news)</u>
 
-**DappList:** [https://thedapplist.com/project/kiwi-news](https://thedapplist.com/project/kiwi-news)
+**DappList:** <u>[https://thedapplist.com/project/kiwi-news](https://thedapplist.com/project/kiwi-news)</u>
 
-**WalletConnect explorer:** [https://explorer.walletconnect.com/kiwinews](https://explorer.walletconnect.com/kiwinews)
+**WalletConnect explorer:** <u>[https://explorer.walletconnect.com/kiwinews](https://explorer.walletconnect.com/kiwinews)</u>
 
-**Optimism:** [https://www.optimism.io/apps/daos](https://www.optimism.io/apps/daos)
+**Optimism:** <u>[https://www.optimism.io/apps/daos](https://www.optimism.io/apps/daos)</u>

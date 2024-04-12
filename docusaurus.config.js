@@ -62,7 +62,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: "img/docusaurus-social-card.jpg",
+      image: "img/Kiwi_docs.png",
       navbar: {
         title: "Kiwi Docs",
         logo: {
@@ -74,9 +74,13 @@ const config = {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
-            label: "Tutorial",
+            label: "Docs",
           },
-          { to: "/blog", label: "Blog", position: "left" },
+          {
+            to: "https://paragraph.xyz/@kiwi-updates",
+            label: "Product Updates",
+            position: "left",
+          },
           {
             href: "https://github.com/attestate/kiwistand",
             label: "GitHub",
@@ -91,7 +95,7 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Tutorial",
+                label: "Docs",
                 to: "/docs/intro",
               },
             ],
@@ -117,8 +121,8 @@ const config = {
             title: "More",
             items: [
               {
-                label: "Blog",
-                to: "/blog",
+                label: "Product Updates",
+                to: "https://paragraph.xyz/@kiwi-updates",
               },
               {
                 label: "GitHub",

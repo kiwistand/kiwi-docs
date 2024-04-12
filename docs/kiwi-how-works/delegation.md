@@ -9,7 +9,7 @@ Delegation lets Kiwi users upvote, submit, and comment on links without having t
 We use a similar method as Warpcast (Farcaster client) does.
 
 How does Delegation work?
-When you mint a Kiwi NFT, it triggers a **[Delegator2 contract](https://optimistic.etherscan.io/address/0x08b7ecfac2c5754abafb789c84f8fa37c9f088b0)**.
+When you mint a Kiwi NFT, it triggers a <u>[Delegator2 contract](https://optimistic.etherscan.io/address/0x08b7ecfac2c5754abafb789c84f8fa37c9f088b0)</u>.
 
 This contract asks your browser (Chrome, Firefox, Safari, etc.) to create a new digital key for you. This key is unique to you and lets you interact with KiwiNews as if you were using the crypto address you minted the NFT with. So you don't need to Connect Wallet each time you open Kiwi.
 
@@ -22,4 +22,4 @@ This delegation key is used only for KiwiNews (news.kiwistand.com), nothing else
 :::
 
 You can learn more by reading our technical explanation:
-https://github.com/attestate/delegator2#readme
+<u>https://github.com/attestate/delegator2#readme</u>

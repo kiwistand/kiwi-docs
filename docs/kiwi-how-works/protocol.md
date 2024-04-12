@@ -2,6 +2,9 @@
 sidebar_position: 2
 ---
 
+import React from 'react';
+import { MDXEmbedProvider } from 'mdx-embed';
+
 # Protocol
 
 Kiwi is powered by a P2P Protocol, similar to Farcaster.
@@ -21,7 +24,10 @@ How's it possible that there's no gas? Your actions, such as submissions, upvote
 If you'd like to dive deeper, here are two materials that you might find interesting:
 
 **Video from Tim explaining how Kiwi Protocol works:**
+<YouTube youTubeId="Rys5UEi2SWg" />
 
 **Protocol documentation**:
 
-**[https://attestate.com/kiwistand/main/protocol.html](https://attestate.com/kiwistand/main/protocol.html)**
+<u>[https://attestate.com/kiwistand/main/protocol.html](https://attestate.com/kiwistand/main/protocol.html)</u>
+
+export default (props) => <MDXEmbedProvider>{props.children}</MDXEmbedProvider>;

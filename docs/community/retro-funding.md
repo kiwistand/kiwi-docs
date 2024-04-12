@@ -31,7 +31,7 @@ In the voting, our users get the voting power proportionate to their Kiwi Karma 
 
 Previous RPGFs
 Kiwi RetroPGF1:
-https://offchain.prop.house/kiwi/kiwi-retroactive-funding-round-1
+<u>https://offchain.prop.house/kiwi/kiwi-retroactive-funding-round-1</u>
 
 Kiwi RetroPGF2:
-https://snapshot.org/#/kiwinews.eth/proposal/0x8257ab480cb6741e2f11f6044aba62597eebae1a5d85d6f2ce373a68de5d212e
+<u>https://snapshot.org/#/kiwinews.eth/proposal/0x8257ab480cb6741e2f11f6044aba62597eebae1a5d85d6f2ce373a68de5d212e</u>

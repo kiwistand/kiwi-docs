@@ -5,7 +5,7 @@ import styles from "./styles.module.css";
 const FeatureList = [
   {
     title: "Public Good",
-    Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
+    image: "/img/Kiwi_docs.png",
     description: (
       <>
         Our goal is to create a space where the crypto community can exchange
@@ -14,8 +14,8 @@ const FeatureList = [
     ),
   },
   {
-    title: "Decentralized & Open Source from Day 1",
-    Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
+    title: "Decentralized & Open Source",
+    image: "/img/Kiwi_docs.png",
     description: (
       <>
         Kiwi has been built on an open source Kiwi P2P Protocol. It means that
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: "Positive-sum games community",
-    Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
+    image: "/img/Kiwi_docs.png",
     description: (
       <>
         We are people building the decentralized future - primarily web3
@@ -35,12 +35,12 @@ const FeatureList = [
   },
 ];
 
-function Feature({ Svg, title, description }) {
+function Feature({ image, title, description }) {
   return (
     <div className={clsx("col col--4")}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
+      {/* <div className="text--center">
+        <img src={image} className={styles.featureImage} alt={title} />{" "}
+      </div> */}
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
         <p>{description}</p>
