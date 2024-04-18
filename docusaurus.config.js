@@ -8,8 +8,9 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Kiwi Docs",
-  tagline: "Decentralized crypto hacker news",
+  title: "Kiwi News",
+  tagline:
+    "Decentralized hacker news focused on crypto tech, products and culture",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here

@@ -21,7 +21,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/docs/intro"
           >
-            Kiwi intro - 5min ⏱️
+            Learn more about 🥝
           </Link>
         </div>
       </div>
