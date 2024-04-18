@@ -65,3 +65,13 @@ DappList: <u>[https://thedapplist.com/project/kiwi-news](https://thedapplist.com
 WalletConnect explorer: <u>[https://explorer.walletconnect.com/kiwinews](https://explorer.walletconnect.com/kiwinews)</u>
 
 Optimism: <u>[https://www.optimism.io/apps/daos](https://www.optimism.io/apps/daos)</u>
+
+### 7. Other
+
+Protocol stats: <u>[https://news.kiwistand.com/stats](https://news.kiwistand.com/stats)</u>
+
+Kiwi Dune dashboard (maintained by rvolz): <u>[https://dune.com/rvolz/kiwi-news](https://dune.com/rvolz/kiwi-news)</u>
+
+iOS Shortcut to submit links with 1 click: <u>[https://news.kiwistand.com/shortcut](https://news.kiwistand.com/shortcut)</u>
+
+Chrome extension to submit links with 1 click: <u>[https://chromewebstore.google.com/detail/kiwi-news-chrome-extensio/ifchjojjeocdanjhhmbihapfjokljllc](https://chromewebstore.google.com/detail/kiwi-news-chrome-extensio/ifchjojjeocdanjhhmbihapfjokljllc)</u>
