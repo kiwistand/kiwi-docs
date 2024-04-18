@@ -13,7 +13,9 @@ Kiwi stores links and upvotes on the <u>[protocol level](/docs/kiwi-how-works/pr
 
 You can access our app here: <u>[news.kiwistand.com](https://news.kiwistand.com)</u>
 
-And learn the story behind the project in this 4 min video by Tim Daubenschutz:
+Learn why it's called Kiwi here: <u>[howtoeat.kiwi](https://howtoeat.kiwi/)</u>
+
+And discover the story behind the project in this 4 min video by Tim Daubenschutz:
 <YouTube youTubeId="WujtU15yAyk" />
 
 export default (props) => <MDXEmbedProvider>{props.children}</MDXEmbedProvider>;
