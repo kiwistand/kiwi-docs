@@ -35,7 +35,7 @@ If you just want to share ideas or feedback, you can just DM us.
 If you report a bug and have a bit more time, it’d be great if you:
 
 - made a screenshot of the bug you see,
-- shared information about the browser & wallet you use
+- shared information about the browser & wallet you use,
 
 and included this information in your DM. It will help us solve the problem faster.
 
@@ -43,7 +43,7 @@ and included this information in your DM. It will help us solve the problem fast
 
 Our project is Open Source, which means everyone can contribute code. People like freeatnet, Alya, and the Dawn Wallet team have already submitted Pull Requests to our repo.
 
-If you want to contribute, the best way to start is by joining Kiwi Devs Chat. You can share your ideas with us, and - if they fit the roadmap - we can help you implement them.
+If you want to contribute, the best way to start is by joining <u>[Kiwi Devs Chat](https://t.me/kiwinewsdevs)</u>. You can share your ideas with us, and - if they fit the roadmap - we can help you implement them.
 
 **7. Organizing Meetups**
 

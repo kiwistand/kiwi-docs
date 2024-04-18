@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Karma
 
-Each Kiwi user can collect Kiwi Karma.
+Each Kiwi user can collect Kiwi Karma. The Karma score is bound to users' wallet address, not the NFT. This means that if a user transfers their Kiwipass to another wallet, they still retain their Karma score.
 
 ### How users can receive Karma
 
