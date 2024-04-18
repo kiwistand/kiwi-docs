@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# What is Kiwi Retroactive Funding
+# Retroactive Funding
 
 Since the beginning, we have been running Kiwi RPGF (Retroactive Public Goods Funding) rounds. This means that we share some % of our income with the community.
 
