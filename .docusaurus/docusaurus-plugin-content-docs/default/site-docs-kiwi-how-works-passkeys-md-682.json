@@ -1,0 +1,27 @@
+{
+  "id": "kiwi-how-works/passkeys",
+  "title": "Passkeys",
+  "description": "What are Passkeys?",
+  "source": "@site/docs/kiwi-how-works/passkeys.md",
+  "sourceDirName": "kiwi-how-works",
+  "slug": "/kiwi-how-works/passkeys",
+  "permalink": "/kiwi-docs/docs/kiwi-how-works/passkeys",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/attestate/kiwistand/docs/kiwi-how-works/passkeys.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Delegation",
+    "permalink": "/kiwi-docs/docs/kiwi-how-works/delegation"
+  },
+  "next": {
+    "title": "Community",
+    "permalink": "/kiwi-docs/docs/category/community"
+  }
+}

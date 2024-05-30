@@ -1,0 +1,27 @@
+{
+  "id": "community/get-involved",
+  "title": "How to get involved",
+  "description": "There are a few ways to get 100% out of being a part of the Kiwi community",
+  "source": "@site/docs/community/get-involved.md",
+  "sourceDirName": "community",
+  "slug": "/community/get-involved",
+  "permalink": "/kiwi-docs/docs/community/get-involved",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/attestate/kiwistand/docs/community/get-involved.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Community",
+    "permalink": "/kiwi-docs/docs/category/community"
+  },
+  "next": {
+    "title": "Retroactive Funding",
+    "permalink": "/kiwi-docs/docs/community/retro-funding"
+  }
+}

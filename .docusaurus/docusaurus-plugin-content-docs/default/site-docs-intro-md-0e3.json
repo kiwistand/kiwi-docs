@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "What is Kiwi",
+  "description": "Kiwi is a decentralized version of HackerNews, focusing exclusively on crypto tech, products, and culture. At Kiwi, a community of crypto veterans shares, upvotes, and discusses top crypto essays, news, art, GitHub repos, and Dune Dashboards.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/kiwi-docs/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/attestate/kiwistand/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "How Kiwi works",
+    "permalink": "/kiwi-docs/docs/category/how-kiwi-works"
+  }
+}

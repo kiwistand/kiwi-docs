@@ -1,0 +1,378 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/kiwi-docs/docs",
+          "tagsPath": "/kiwi-docs/docs/tags",
+          "editUrl": "https://github.com/attestate/kiwistand/docs",
+          "editUrlLocalized": "https://github.com/attestate/kiwistand/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/maciek/kiwi-docs/sidebars.js",
+          "contentPath": "/Users/maciek/kiwi-docs/docs",
+          "contentPathLocalized": "/Users/maciek/kiwi-docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "id": "community/get-involved",
+              "title": "How to get involved",
+              "description": "There are a few ways to get 100% out of being a part of the Kiwi community",
+              "source": "@site/docs/community/get-involved.md",
+              "sourceDirName": "community",
+              "slug": "/community/get-involved",
+              "permalink": "/kiwi-docs/docs/community/get-involved",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/attestate/kiwistand/docs/community/get-involved.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Community",
+                "permalink": "/kiwi-docs/docs/category/community"
+              },
+              "next": {
+                "title": "Retroactive Funding",
+                "permalink": "/kiwi-docs/docs/community/retro-funding"
+              }
+            },
+            {
+              "id": "community/retro-funding",
+              "title": "Retroactive Funding",
+              "description": "Since the beginning, we have been running Kiwi RPGF (Retroactive Public Goods Funding) rounds. This means that we share some % of our income with the community.",
+              "source": "@site/docs/community/retro-funding.md",
+              "sourceDirName": "community",
+              "slug": "/community/retro-funding",
+              "permalink": "/kiwi-docs/docs/community/retro-funding",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/attestate/kiwistand/docs/community/retro-funding.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How to get involved",
+                "permalink": "/kiwi-docs/docs/community/get-involved"
+              },
+              "next": {
+                "title": "Important Links",
+                "permalink": "/kiwi-docs/docs/category/important-links"
+              }
+            },
+            {
+              "id": "important-links/links",
+              "title": "Links",
+              "description": "1. Apps",
+              "source": "@site/docs/important-links/links.md",
+              "sourceDirName": "important-links",
+              "slug": "/important-links/links",
+              "permalink": "/kiwi-docs/docs/important-links/links",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/attestate/kiwistand/docs/important-links/links.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Important Links",
+                "permalink": "/kiwi-docs/docs/category/important-links"
+              }
+            },
+            {
+              "id": "intro",
+              "title": "What is Kiwi",
+              "description": "Kiwi is a decentralized version of HackerNews, focusing exclusively on crypto tech, products, and culture. At Kiwi, a community of crypto veterans shares, upvotes, and discusses top crypto essays, news, art, GitHub repos, and Dune Dashboards.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/kiwi-docs/docs/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/attestate/kiwistand/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "How Kiwi works",
+                "permalink": "/kiwi-docs/docs/category/how-kiwi-works"
+              }
+            },
+            {
+              "id": "kiwi-how-works/delegation",
+              "title": "Delegation",
+              "description": "Delegation lets Kiwi users upvote, submit, and comment on links without having to sign each action in their wallets.",
+              "source": "@site/docs/kiwi-how-works/delegation.md",
+              "sourceDirName": "kiwi-how-works",
+              "slug": "/kiwi-how-works/delegation",
+              "permalink": "/kiwi-docs/docs/kiwi-how-works/delegation",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/attestate/kiwistand/docs/kiwi-how-works/delegation.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Karma",
+                "permalink": "/kiwi-docs/docs/kiwi-how-works/karma"
+              },
+              "next": {
+                "title": "Passkeys",
+                "permalink": "/kiwi-docs/docs/kiwi-how-works/passkeys"
+              }
+            },
+            {
+              "id": "kiwi-how-works/karma",
+              "title": "Karma",
+              "description": "Each Kiwi user can collect Kiwi Karma. The Karma score is bound to users' wallet address, not the NFT. This means that if a user transfers their Kiwipass to another wallet, they still retain their Karma score.",
+              "source": "@site/docs/kiwi-how-works/karma.md",
+              "sourceDirName": "kiwi-how-works",
+              "slug": "/kiwi-how-works/karma",
+              "permalink": "/kiwi-docs/docs/kiwi-how-works/karma",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/attestate/kiwistand/docs/kiwi-how-works/karma.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Protocol",
+                "permalink": "/kiwi-docs/docs/kiwi-how-works/protocol"
+              },
+              "next": {
+                "title": "Delegation",
+                "permalink": "/kiwi-docs/docs/kiwi-how-works/delegation"
+              }
+            },
+            {
+              "id": "kiwi-how-works/kiwipass",
+              "title": "Kiwipass NFT",
+              "description": "Users mint Kiwi Pass NFT when they sign up for our app. Signing up lets a user join our community and get the curator's supowerpowers (more on that in 'NFT utility' below).",
+              "source": "@site/docs/kiwi-how-works/kiwipass.md",
+              "sourceDirName": "kiwi-how-works",
+              "slug": "/kiwi-how-works/kiwipass",
+              "permalink": "/kiwi-docs/docs/kiwi-how-works/kiwipass",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/attestate/kiwistand/docs/kiwi-how-works/kiwipass.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How Kiwi works",
+                "permalink": "/kiwi-docs/docs/category/how-kiwi-works"
+              },
+              "next": {
+                "title": "Protocol",
+                "permalink": "/kiwi-docs/docs/kiwi-how-works/protocol"
+              }
+            },
+            {
+              "id": "kiwi-how-works/passkeys",
+              "title": "Passkeys",
+              "description": "What are Passkeys?",
+              "source": "@site/docs/kiwi-how-works/passkeys.md",
+              "sourceDirName": "kiwi-how-works",
+              "slug": "/kiwi-how-works/passkeys",
+              "permalink": "/kiwi-docs/docs/kiwi-how-works/passkeys",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/attestate/kiwistand/docs/kiwi-how-works/passkeys.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Delegation",
+                "permalink": "/kiwi-docs/docs/kiwi-how-works/delegation"
+              },
+              "next": {
+                "title": "Community",
+                "permalink": "/kiwi-docs/docs/category/community"
+              }
+            },
+            {
+              "id": "kiwi-how-works/protocol",
+              "title": "Protocol",
+              "description": "Kiwi is powered by a P2P Protocol, similar to Farcaster.",
+              "source": "@site/docs/kiwi-how-works/protocol.md",
+              "sourceDirName": "kiwi-how-works",
+              "slug": "/kiwi-how-works/protocol",
+              "permalink": "/kiwi-docs/docs/kiwi-how-works/protocol",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/attestate/kiwistand/docs/kiwi-how-works/protocol.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Kiwipass NFT",
+                "permalink": "/kiwi-docs/docs/kiwi-how-works/kiwipass"
+              },
+              "next": {
+                "title": "Karma",
+                "permalink": "/kiwi-docs/docs/kiwi-how-works/karma"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "How Kiwi works",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "kiwi-how-works/kiwipass"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "kiwi-how-works/protocol"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "kiwi-how-works/karma"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "kiwi-how-works/delegation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "kiwi-how-works/passkeys"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Quick overview of the mechanics behind Kiwi",
+                  "slug": "/category/how-kiwi-works",
+                  "permalink": "/kiwi-docs/docs/category/how-kiwi-works"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Community",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "community/get-involved"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "community/retro-funding"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "How to get involved in Kiwi",
+                  "slug": "/category/community",
+                  "permalink": "/kiwi-docs/docs/category/community"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Important Links",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "important-links/links"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Most important links",
+                  "slug": "/category/important-links",
+                  "permalink": "/kiwi-docs/docs/category/important-links"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/kiwi-docs/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/kiwi-docs/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/kiwi-docs/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        },
+        "unlisted": false
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

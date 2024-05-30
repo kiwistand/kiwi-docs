@@ -1,0 +1,27 @@
+{
+  "id": "kiwi-how-works/protocol",
+  "title": "Protocol",
+  "description": "Kiwi is powered by a P2P Protocol, similar to Farcaster.",
+  "source": "@site/docs/kiwi-how-works/protocol.md",
+  "sourceDirName": "kiwi-how-works",
+  "slug": "/kiwi-how-works/protocol",
+  "permalink": "/kiwi-docs/docs/kiwi-how-works/protocol",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/attestate/kiwistand/docs/kiwi-how-works/protocol.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kiwipass NFT",
+    "permalink": "/kiwi-docs/docs/kiwi-how-works/kiwipass"
+  },
+  "next": {
+    "title": "Karma",
+    "permalink": "/kiwi-docs/docs/kiwi-how-works/karma"
+  }
+}

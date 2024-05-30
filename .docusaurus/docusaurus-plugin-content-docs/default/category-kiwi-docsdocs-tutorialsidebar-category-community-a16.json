@@ -1,0 +1,16 @@
+{
+  "title": "Community",
+  "description": "How to get involved in Kiwi",
+  "slug": "/category/community",
+  "permalink": "/kiwi-docs/docs/category/community",
+  "navigation": {
+    "previous": {
+      "title": "Passkeys",
+      "permalink": "/kiwi-docs/docs/kiwi-how-works/passkeys"
+    },
+    "next": {
+      "title": "How to get involved",
+      "permalink": "/kiwi-docs/docs/community/get-involved"
+    }
+  }
+}

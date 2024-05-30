@@ -1,0 +1,383 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "237": [
+      237
+    ],
+    "674": [
+      61,
+      401,
+      869,
+      674
+    ],
+    "717": [
+      392,
+      976,
+      717
+    ],
+    "17896441": [
+      674,
+      869,
+      401
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "0e384e19": [
+      717,
+      976
+    ],
+    "14eb3368": [
+      869,
+      969
+    ],
+    "1f391b9e": [
+      674,
+      869,
+      61
+    ],
+    "2cfdf637": [
+      594
+    ],
+    "393be207": [
+      134
+    ],
+    "49787aa0": [
+      717,
+      392
+    ],
+    "506366f6": [
+      233
+    ],
+    "5e95c892": [
+      647
+    ],
+    "6586f745": [
+      430
+    ],
+    "682b8b53": [
+      559
+    ],
+    "6a10d712": [
+      345
+    ],
+    "7a6b4b42": [
+      147
+    ],
+    "935f2afb": [
+      581
+    ],
+    "93ae7afc": [
+      680
+    ],
+    "a7bd4aaa": [
+      98
+    ],
+    "a94703ab": [
+      869,
+      48
+    ],
+    "acd50939": [
+      475
+    ],
+    "b1b03f41": [
+      556
+    ],
+    "c099c21c": [
+      463
+    ],
+    "c4f5d8e4": [
+      869,
+      634
+    ],
+    "c922dfc4": [
+      124
+    ],
+    "cb700756": [
+      783
+    ],
+    "styles": [
+      48,
+      61,
+      354,
+      401,
+      634,
+      674,
+      792,
+      969,
+      869
+    ]
+  },
+  "assets": {
+    "48": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.efb7b4b8.js",
+          "hash": "9d0769a0d38fe7b2",
+          "publicPath": "/kiwi-docs/assets/js/a94703ab.efb7b4b8.js"
+        }
+      ]
+    },
+    "61": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.3de1569f.js",
+          "hash": "c4cd918e89574025",
+          "publicPath": "/kiwi-docs/assets/js/1f391b9e.3de1569f.js"
+        }
+      ]
+    },
+    "98": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.cb220483.js",
+          "hash": "ec21c447d15b70bd",
+          "publicPath": "/kiwi-docs/assets/js/a7bd4aaa.cb220483.js"
+        }
+      ]
+    },
+    "124": {
+      "js": [
+        {
+          "file": "assets/js/c922dfc4.3349f037.js",
+          "hash": "6a283c38cfe535f9",
+          "publicPath": "/kiwi-docs/assets/js/c922dfc4.3349f037.js"
+        }
+      ]
+    },
+    "134": {
+      "js": [
+        {
+          "file": "assets/js/393be207.d9c654a9.js",
+          "hash": "e79bbb82a180b770",
+          "publicPath": "/kiwi-docs/assets/js/393be207.d9c654a9.js"
+        }
+      ]
+    },
+    "147": {
+      "js": [
+        {
+          "file": "assets/js/7a6b4b42.13dbbdea.js",
+          "hash": "75eb8671bb45b958",
+          "publicPath": "/kiwi-docs/assets/js/7a6b4b42.13dbbdea.js"
+        }
+      ]
+    },
+    "233": {
+      "js": [
+        {
+          "file": "assets/js/506366f6.219a7fef.js",
+          "hash": "e03b91e0724aef92",
+          "publicPath": "/kiwi-docs/assets/js/506366f6.219a7fef.js"
+        }
+      ]
+    },
+    "237": {
+      "js": [
+        {
+          "file": "assets/js/237.4c14c75f.js",
+          "hash": "e5f775d993a4cae9",
+          "publicPath": "/kiwi-docs/assets/js/237.4c14c75f.js"
+        }
+      ]
+    },
+    "345": {
+      "js": [
+        {
+          "file": "assets/js/6a10d712.10bfbec1.js",
+          "hash": "3ef9084dd73f1d4a",
+          "publicPath": "/kiwi-docs/assets/js/6a10d712.10bfbec1.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.6109da09.js",
+          "hash": "2892f8ebb701ad90",
+          "publicPath": "/kiwi-docs/assets/js/runtime~main.6109da09.js"
+        }
+      ]
+    },
+    "392": {
+      "js": [
+        {
+          "file": "assets/js/49787aa0.e35f4b34.js",
+          "hash": "8c27d390983cb2e5",
+          "publicPath": "/kiwi-docs/assets/js/49787aa0.e35f4b34.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.0579c50b.js",
+          "hash": "a6f7a9fb1ca05251",
+          "publicPath": "/kiwi-docs/assets/js/17896441.0579c50b.js"
+        }
+      ]
+    },
+    "430": {
+      "js": [
+        {
+          "file": "assets/js/6586f745.2239787d.js",
+          "hash": "bd049246aab3a976",
+          "publicPath": "/kiwi-docs/assets/js/6586f745.2239787d.js"
+        }
+      ]
+    },
+    "463": {
+      "js": [
+        {
+          "file": "assets/js/c099c21c.008e91aa.js",
+          "hash": "81886d38fbbb2b5b",
+          "publicPath": "/kiwi-docs/assets/js/c099c21c.008e91aa.js"
+        }
+      ]
+    },
+    "475": {
+      "js": [
+        {
+          "file": "assets/js/acd50939.dc1de1f1.js",
+          "hash": "b4e155eb5c09e2c0",
+          "publicPath": "/kiwi-docs/assets/js/acd50939.dc1de1f1.js"
+        }
+      ]
+    },
+    "556": {
+      "js": [
+        {
+          "file": "assets/js/b1b03f41.26f1e7ce.js",
+          "hash": "b5cd0c949ef122ba",
+          "publicPath": "/kiwi-docs/assets/js/b1b03f41.26f1e7ce.js"
+        }
+      ]
+    },
+    "559": {
+      "js": [
+        {
+          "file": "assets/js/682b8b53.c1f24538.js",
+          "hash": "7321d4ee642ffb3b",
+          "publicPath": "/kiwi-docs/assets/js/682b8b53.c1f24538.js"
+        }
+      ]
+    },
+    "581": {
+      "js": [
+        {
+          "file": "assets/js/935f2afb.9e044aca.js",
+          "hash": "8849f2152c638eed",
+          "publicPath": "/kiwi-docs/assets/js/935f2afb.9e044aca.js"
+        }
+      ]
+    },
+    "594": {
+      "js": [
+        {
+          "file": "assets/js/2cfdf637.4f0c609f.js",
+          "hash": "63369dbaa694144c",
+          "publicPath": "/kiwi-docs/assets/js/2cfdf637.4f0c609f.js"
+        }
+      ]
+    },
+    "634": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.0b581998.js",
+          "hash": "cbc643e43c3a95fa",
+          "publicPath": "/kiwi-docs/assets/js/c4f5d8e4.0b581998.js"
+        }
+      ]
+    },
+    "647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.774f91d8.js",
+          "hash": "9c1c3c20dd07732b",
+          "publicPath": "/kiwi-docs/assets/js/5e95c892.774f91d8.js"
+        }
+      ]
+    },
+    "674": {
+      "js": [
+        {
+          "file": "assets/js/674.68ee5ac8.js",
+          "hash": "638f5512bb75329f",
+          "publicPath": "/kiwi-docs/assets/js/674.68ee5ac8.js"
+        }
+      ]
+    },
+    "680": {
+      "js": [
+        {
+          "file": "assets/js/93ae7afc.59e15f03.js",
+          "hash": "a1c4bcfa6d6323b9",
+          "publicPath": "/kiwi-docs/assets/js/93ae7afc.59e15f03.js"
+        }
+      ]
+    },
+    "717": {
+      "js": [
+        {
+          "file": "assets/js/717.a8641d89.js",
+          "hash": "b6a2f45a4e0e9aa5",
+          "publicPath": "/kiwi-docs/assets/js/717.a8641d89.js"
+        }
+      ]
+    },
+    "783": {
+      "js": [
+        {
+          "file": "assets/js/cb700756.9bc612c6.js",
+          "hash": "5fe4a52694e43c61",
+          "publicPath": "/kiwi-docs/assets/js/cb700756.9bc612c6.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.be75ef9e.js",
+          "hash": "bb866c73cf5010e2",
+          "publicPath": "/kiwi-docs/assets/js/main.be75ef9e.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.8f611f14.css",
+          "hash": "406315e08cd05963",
+          "publicPath": "/kiwi-docs/assets/css/styles.8f611f14.css"
+        }
+      ]
+    },
+    "969": {
+      "js": [
+        {
+          "file": "assets/js/14eb3368.c1ed91ca.js",
+          "hash": "7e7460f1f213901d",
+          "publicPath": "/kiwi-docs/assets/js/14eb3368.c1ed91ca.js"
+        }
+      ]
+    },
+    "976": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.8591104b.js",
+          "hash": "9a1bd8d232af022d",
+          "publicPath": "/kiwi-docs/assets/js/0e384e19.8591104b.js"
+        }
+      ]
+    }
+  }
+}

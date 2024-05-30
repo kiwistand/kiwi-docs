@@ -1,0 +1,1 @@
+export { Wikipedia } from './wikipedia';
