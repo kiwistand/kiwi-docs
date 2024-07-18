@@ -17,5 +17,8 @@ Learn why it's called Kiwi here: <u>[howtoeat.kiwi](https://howtoeat.kiwi/)</u>
 
 And discover the story behind the project in this 4 min video by Tim Daubenschutz:
 <YouTube youTubeId="WujtU15yAyk" />
+<br/>
+Or watch this 38 min interview with Tim & Mac on Dev n' Tell podcast:
+<YouTube youTubeId="tRqkiCwD-zY" />
 
 export default (props) => <MDXEmbedProvider>{props.children}</MDXEmbedProvider>;
