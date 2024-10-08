@@ -78,6 +78,11 @@ const config = {
             label: "Docs",
           },
           {
+            to: "https://news.kiwistand.com/",
+            label: "App",
+            position: "left",
+          },
+          {
             to: "https://paragraph.xyz/@kiwi-updates",
             label: "Product Updates",
             position: "left",

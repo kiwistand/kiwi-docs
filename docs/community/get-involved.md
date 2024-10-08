@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # How to get involved
 
-There are a few ways to get 100% out of being a part of the Kiwi community
+There are many ways to get 100% out of being a part of the Kiwi community.
 
 **1. Sharing Kiwi links**
 
@@ -45,8 +45,10 @@ Our project is Open Source, which means everyone can contribute code. People lik
 
 If you want to contribute, the best way to start is by joining <u>[Kiwi Devs Chat](https://t.me/kiwinewsdevs)</u>. You can share your ideas with us, and - if they fit the roadmap - we can help you implement them.
 
-**7. Organizing Meetups**
+**7. Attending & organizing community calls & meetups**
 
-So far, we organized Kiwi meetups in Berlin, Paris, Warsaw & Istanbul. They were all organized by Tim & Mac, but you can organize meetups independently if there are many Kiwi people in your city or at the conference.
+We run weekly community calls, where we get to know each other, discuss important Kiwi challenges, product ideas and all things crypto. You can find the calendar with the calls <u>[on our Luma](https://lu.ma/kiwi)</u>.
 
-If you want to do it, we’d be happy to support you - feel free to DM us!
+We also organize meetups. So far, we had Kiwi meetups in Berlin, Paris, Warsaw, Brussels & Istanbul. Four of them were organized by Tim & Mac, and one was organized independently by our community members, led by freeatnet. If there are any new upcoming meetups, we will add them to the <u>[same calendar where you can find our community calls](https://lu.ma/kiwi)</u>.
+
+If you want to organize one by yourself, we’d be happy to support you and add it to the calendar - feel free to DM us!
