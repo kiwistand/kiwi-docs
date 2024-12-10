@@ -10,6 +10,12 @@ Here’s how to reach them.
 
 ### How to prepare a good Kiwi ad
 
+0. #### The ad should feel like an organic Kiwi story.
+
+One good example is this <u>[Stealth addresses blogpost](https://news.kiwistand.com/stories?index=0x6752ea5222682b825ff704376caea24f51d1b1081a094b074518c154b04ee32217621237&t=1733839846710)</u> that also shows how FluidKey works.
+
+If you were unsure if your ad is a good fit you can read our <u>[content guidelines](https://news.kiwistand.com/guidelines)</u> or check the <u>[most popular stores of the month](https://news.kiwistand.com/best?period=month)</u>.
+
 1. #### Assume that all Kiwi users are smart, curious people with long attention spans, and write a title that such a person would like to click.
 
 <span style={{ color: 'red' }}>Bad ad:</span>
