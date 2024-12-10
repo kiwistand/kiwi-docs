@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Ads on Kiwi
+# Intro
 
 Kiwi is a self-funded project, so to make it more sustainable, we decided to run community ads.
 
@@ -74,7 +74,10 @@ All our clicks are unique devices (a proxy for "reach").
 
 ### **How to Maximize Your Ad’s Success**
 
-We're committed to helping our ad buyers get the best results. Here are some ways we can collaborate:
+We're committed to helping our ad buyers get the best results. We wrote a simple <u>[Ads guide
+](/docs/advertise/ad_guide)</u>
+
+And here are some ways we can collaborate:
 
 - **Choosing the right format.**
 
