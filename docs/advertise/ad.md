@@ -42,15 +42,26 @@ Our ad-buying model is based on a [smart contract.](https://github.com/attestate
 
 **Here’s how it works:**
 
-1. **Stake to Advertise**: To claim the ad space, you stake an amount of ETH. For example, if you stake 1 ETH, you secure the right to set the title and link of the ad.
+You can stake an amount of ETH for the contract to be yours. Say you stake 1 ETH, then you'll get to set the title, link, and you'll own the contract. But over 1 month, we'll charge you 1 ETH in fees (100% of the collateral a month). The ETH staked as collateral in the contract is also the price someone has to pay to acquire the ad from you. Here's an example:
 
-2. **Collateral Deductions**: Your collateral is used to pay for ad space over time. If you stake 1 ETH, we’ll deduct 1 ETH/month in fees, with deductions happening every second.
+- Day 0: You buy the ad from the last owner for 0.5 ETH. You stake 1 ETH in collateral, so the new price to buy the ad from you is then 1 ETH.
+- Day 15 (half a month): Now half of your collateral was taxed (0.5 ETH). The price to transfer the ad is 0.5 ETH. Your remaining collateral is 0.5 ETH.
+- Day 30 (month): Your ad is about to be taken off the website. In case noone has bought yet, your collateral now is very low 0.0000...1 ETH, and so for someone else to buy the ad space from you is extremely cheap.
 
-   - **Day 0**: You’ve staked 1 ETH and can set your ad. To take over the ad space, a competitor would need to stake more than your 1 ETH, which you’d get back.
-   - **Day 15**: Halfway through the month, your remaining collateral would be 0.5 ETH, so a competitor would only need to stake a little over 0.5 ETH to take over.
-   - **Day 30**: By the end of the month, your collateral is nearly depleted, making it cheaper for others to buy the space from you.
+Now, what would happen if someone bought your ad for 0.9 ETH on Day 12? The new flow would be:
 
-3. **All fees support Kiwi**: As your ad runs, the fees are gradually transferred to the Kiwi treasury, directly supporting our operations.
+1. You deposit 1 ETH on Kiwi as collateral
+2. On day 12, there are 0.6 ETH left (the rest, 0.4 ETH, is locked for taxes)
+3. Alice wants to buy the new ad for 0.9 ETH. What happens then:
+   - 0.6 ETH from Alice are sent to you
+   - 0.3 ETH from Alice are kept as collateral for the new ad
+   - 0.4 ETH from your old collateral are sent to Kiwi for the taxes
+   - 0.6 ETH from your old collateral are sent back to you
+
+Now:
+- You have 1.2 ETH (0.6 ETH leftover collateral + 0.6 ETH from Alice)
+- Alice has 0.3 ETH as collateral on Kiwi
+- Kiwi has 0.4 ETH paid from taxes from your ad
 
 **Superscan campaign case study:**
 
@@ -64,13 +75,9 @@ All our clicks are unique devices (a proxy for "reach").
 
 ![Submit ad](/img/ad_submit.png "submit ad")
 
-**2) Then you’d be asked to put the amount of ETH you want to stake, to take over the ad space.**
+**2) "Current Price" shows what you have to pay to buy the ad**
 
-![Add collateral](/img/ad_collateral.png "add collateral")
-
-**3) Once you send the collateral, you just click "Submit onchain ad".**
-
-![Ad send](/img/ad_send.png "ad send")
+**3) "Set Your Price" is the price a new buyer will have to pay to outbid you**
 
 ### **How to Maximize Your Ad’s Success**
 
