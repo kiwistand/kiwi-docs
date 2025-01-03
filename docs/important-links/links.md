@@ -12,11 +12,15 @@ App: <u>[kiwinews.xyz](https://kiwinews.xyz)</u>
 
 GitHub: <u>[github.com/attestate/kiwistand](https://github.com/attestate/kiwistand)</u>
 
-#### Minimalistic Kiwi client maintained by freeatnet
+#### Minimalistic Kiwi client maintained by freeatnet.eth
 
 App: <u>[Kiwinews.lol](https://kiwinews.lol)</u>
 
 GitHub: <u>[github.com/freeatnet/kiwinews-webapp](https://github.com/freeatnet/kiwinews-webapp)</u>
+
+#### Search engine maintained by rvolz.eth
+
+App: <u>[https://knsearch.x4901.xyz/](https://knsearch.x4901.xyz/)</u>
 
 ### 2. Newsletters & RSS feeds (maintained by freeatnet)
 
