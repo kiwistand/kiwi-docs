@@ -17,7 +17,7 @@ You can access our app here: <u>[news.kiwistand.com](https://news.kiwistand.com)
 
 Learn why it's called Kiwi here: <u>[howtoeat.kiwi](https://howtoeat.kiwi/)</u>
 
-Read a short <u>[interview where Mac explains what makes Kiwi special](https://paragraph.xyz/@javelin/reimagining-content-curation-for-the-crypto-space-with-maciej-budkowski-kiwi-news)</u>.
+Read a short <u>[interview where Mac explains Kiwi's role in content curation](https://paragraph.xyz/@javelin/reimagining-content-curation-for-the-crypto-space-with-maciej-budkowski-kiwi-news)</u>.
 
 Discover the story behind the project in this 4 min video by Tim Daubenschutz:
 <YouTube youTubeId="WujtU15yAyk" />
