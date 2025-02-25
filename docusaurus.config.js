@@ -78,7 +78,7 @@ const config = {
             label: "Docs",
           },
           {
-            to: "https://news.kiwistand.com/",
+            to: "https://news.kiwistand.com/?utm_source=kiwi_docs&utm_medium=website_owned&utm_campaign=menu",
             label: "App",
             position: "left",
           },

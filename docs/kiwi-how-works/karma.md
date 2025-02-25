@@ -16,7 +16,7 @@ There are two major ways to receive Kiwi Karma:
 
 So if a user submits a link that gets 0 upvotes, they receive 1 karma point. If a user submits a link that gets 9 upvotes, they receive 10 karma points - 1 for submitting a link and 9 for upvotes.
 
-You can check every user's Karma by clicking on their profile. You can find users' profiles in the <u>[Community section](https://news.kiwistand.com/community)</u>.
+You can check every user's Karma by clicking on their profile. You can find users' profiles in the <u>[Community section](https://news.kiwistand.com/community?utm_source=kiwi_docs&utm_medium=website_owned&utm_campaign=karma)</u>.
 
 ### What's the use case of Kiwi Karma
 

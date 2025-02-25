@@ -72,11 +72,11 @@ Optimism: <u>[www.optimism.io/apps/daos](https://www.optimism.io/apps/daos)</u>
 
 ### 7. Other
 
-Protocol stats: <u>[news.kiwistand.com/stats](https://news.kiwistand.com/stats)</u>
+Protocol stats: <u>[news.kiwistand.com/stats](https://news.kiwistand.com/stats?utm_source=kiwi_docs&utm_medium=website_owned&utm_campaign=links)</u>
 
 Kiwi Dune dashboard (maintained by rvolz): <u>[dune.com/rvolz/kiwi-news](https://dune.com/rvolz/kiwi-news)</u>
 
-iOS Shortcut to submit links with 1 click: <u>[news.kiwistand.com/shortcut](https://news.kiwistand.com/shortcut)</u>
+iOS Shortcut to submit links with 1 click: <u>[news.kiwistand.com/shortcut](https://news.kiwistand.com/shortcut?utm_source=kiwi_docs&utm_medium=website_owned&utm_campaign=links)</u>
 
 Chrome extension to submit links with 1 click: <u>[chromewebstore.google.com/detail/kiwi-news-chrome-extensio/ifchjojjeocdanjhhmbihapfjokljllc](https://chromewebstore.google.com/detail/kiwi-news-chrome-extensio/ifchjojjeocdanjhhmbihapfjokljllc)</u>
 

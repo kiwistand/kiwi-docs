@@ -13,7 +13,7 @@ Kiwi is a decentralized version of HackerNews, focusing exclusively on crypto te
 
 Kiwi stores links and upvotes on the <u>[protocol level](/docs/kiwi-how-works/protocol)</u>. Thanks to that, users can create their own UIs and permissionlessly create apps on top of it.
 
-You can access our app here: <u>[news.kiwistand.com](https://news.kiwistand.com)</u>
+You can access our app here: <u>[news.kiwistand.com](https://news.kiwistand.com/?utm_source=kiwi_docs&utm_medium=website_owned&utm_campaign=what_is_kiwi)</u>
 
 Learn why it's called Kiwi here: <u>[howtoeat.kiwi](https://howtoeat.kiwi/)</u>
 

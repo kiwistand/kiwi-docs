@@ -71,7 +71,7 @@ All our clicks are unique devices (a proxy for "reach").
 
 ### **How do you post your ad?**
 
-**1) Go to <u>[news.kiwistand.com/submit](https://news.kiwistand.com/submit)</u> and click “Submit story as an ad”**
+**1) Go to <u>[news.kiwistand.com/submit](https://news.kiwistand.com/submit?utm_source=kiwi_docs&utm_medium=website_owned&utm_campaign=ad)</u> and click “Submit story as an ad”**
 
 ![Submit ad](/img/ad_submit.png "submit ad")
 

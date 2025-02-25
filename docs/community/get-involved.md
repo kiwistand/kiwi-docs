@@ -18,7 +18,7 @@ So, if you read something on Kiwi and think it’s good, don’t hesitate to upv
 
 **3. Submitting links**
 
-Another way to help is by submitting relevant links. We wrote <u>[guidelines](https://news.kiwistand.com/guidelines)</u> to inform you which links are welcome.
+Another way to help is by submitting relevant links. We wrote <u>[guidelines](https://news.kiwistand.com/guidelines?utm_source=kiwi_docs&utm_medium=website_owned&utm_campaign=get_involved)</u> to inform you which links are welcome.
 
 If you are unsure if the link fits, feel free to DM us (@timdaub & macbudkowski on Telegram), and we will help you decide if it will work.
 

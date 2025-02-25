@@ -12,7 +12,7 @@ Here's how to do it.
 
 First of all, it’s important to understand the Kiwi culture.
 
-The best way to do it is to read the <u>[submissions and commenting guidelines](https://news.kiwistand.com/guidelines)</u>. You can also check what kind of <u>[links are the most popular](https://news.kiwistand.com/best)</u>.
+The best way to do it is to read the <u>[submissions and commenting guidelines](https://news.kiwistand.com/guidelines?utm_source=kiwi_docs&utm_medium=website_owned&utm_campaign=sharing_products)</u>. You can also check what kind of <u>[links are the most popular](https://news.kiwistand.com/best?utm_source=kiwi_docs&utm_medium=website_owned&utm_campaign=sharing_products)</u>.
 
 Once you understand what Kiwi is about, there are 3 main ways to present your product.
 
@@ -22,7 +22,7 @@ Once you understand what Kiwi is about, there are 3 main ways to present your pr
 
 **When it works:** When your product is straightforward, and users don’t need any extra explanation to understand why they should use it.
 
-[![ENS Data](/img/ensdata.png)](https://news.kiwistand.com/stories?index=0x6475ecb80597b4ff55d1c4994159668e3d11caa8592979d18c375df4097550bc75b88e0a)
+[![ENS Data](/img/ensdata.png)](https://news.kiwistand.com/stories?index=0x6475ecb80597b4ff55d1c4994159668e3d11caa8592979d18c375df4097550bc75b88e0a&utm_source=kiwi_docs&utm_medium=website_owned&utm_campaign=sharing_products)
 _(ENS Data shared by its founder on Kiwi)_
 
 #### 2) Sharing a blogpost about your product.
@@ -31,7 +31,7 @@ _(ENS Data shared by its founder on Kiwi)_
 
 **When it works:** When your product is more complex and users need to understand the tech under the hood, its unique set of features, or the non-obvious problem it’s solving.
 
-[![Vocdoni](/img/vocdoni.png)](https://news.kiwistand.com/stories?index=0x65c2651436b36ccdf8d76627a8d9acaefbdfd823bbbd59e350e8fdc40ad8729b1edcc012)
+[![Vocdoni](/img/vocdoni.png)](https://news.kiwistand.com/stories?index=0x65c2651436b36ccdf8d76627a8d9acaefbdfd823bbbd59e350e8fdc40ad8729b1edcc012&utm_source=kiwi_docs&utm_medium=website_owned&utm_campaign=sharing_products)
 _(Vocdoni shared by its founder on Kiwi)_
 
 #### 3) Sharing a story about your building journey.
@@ -40,14 +40,14 @@ _(Vocdoni shared by its founder on Kiwi)_
 
 **When it works:** If the story of your project is interesting or it helps to better understand the product.
 
-[![Pincaster](/img/pincaster.png)](https://news.kiwistand.com/stories?index=0x6499a046b6c5f550ebd2a1ced495d293269cd90232e8214069f4f9133d2c5b261e34e30c)
+[![Pincaster](/img/pincaster.png)](https://news.kiwistand.com/stories?index=0x6499a046b6c5f550ebd2a1ced495d293269cd90232e8214069f4f9133d2c5b261e34e30c&utm_source=kiwi_docs&utm_medium=website_owned&utm_campaign=sharing_products)
 _(Pincaster shared by its founder on Kiwi)_
 
 ## What are the steps to promote your product on Kiwi
 
 **1. Get a Kiwi Pass**
 
-You can buy it <u>[here](https://news.kiwistand.com/kiwipass-mint)</u>.
+You can buy it <u>[here](https://news.kiwistand.com/kiwipass-mint?utm_source=kiwi_docs&utm_medium=website_owned&utm_campaign=sharing_products)</u>.
 
 **2. Activate your account**
 
@@ -59,7 +59,7 @@ While submitting, use your primary wallet - the one with your ENS/Lens handle.
 
 **4. Respond to comments**
 
-Sometimes product shares can <u>[spark a discussion](https://news.kiwistand.com/stories?index=0x66866602378090fb374eb1212afba2a18a80fac785e4a8c97d9a14bc8f41dbd4e4d5add7)</u>. It’s good if you as a founder respond to the community questions - both inside the app as well as the ones that might arise on the Kiwi Telegram chat.
+Sometimes product shares can <u>[spark a discussion](https://news.kiwistand.com/stories?index=0x66866602378090fb374eb1212afba2a18a80fac785e4a8c97d9a14bc8f41dbd4e4d5add7&utm_source=kiwi_docs&utm_medium=website_owned&utm_campaign=sharing_products)</u>. It’s good if you as a founder respond to the community questions - both inside the app as well as the ones that might arise on the Kiwi Telegram chat.
 
 ---
 

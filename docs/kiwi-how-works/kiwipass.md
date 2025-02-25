@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Kiwipass NFT
 
-Users mint <u>[Kiwi Pass NFT](https://news.kiwistand.com/kiwipass-mint)</u> when they sign up for our app. Signing up lets a user join our community and get the curator's supowerpowers (more on that in 'NFT utility' below).
+Users mint <u>[Kiwi Pass NFT](https://news.kiwistand.com/kiwipass-mint?utm_source=kiwi_docs&utm_medium=website_owned&utm_campaign=kiwipass)</u> when they sign up for our app. Signing up lets a user join our community and get the curator's supowerpowers (more on that in 'NFT utility' below).
 
 ### How the NFT works
 
@@ -18,7 +18,7 @@ The NFT provides 5 main utilities:
 
 **1. Submitting links.**
 
-You can share links you find interesting on our <u>[Submission page](https://news.kiwistand.com/submit)</u>. Your link will automatically land in the <u>[/New tab](https://news.kiwistand.com/new)</u>, and if it gets enough upvotes, it will move to the <u>[/Hot tab](https://news.kiwistand.com)</u>. Most popular links get featured by our <u>[Weekly Newsletter](https://paragraph.xyz/@kiwi-weekly)</u>, <u>[Farcaster](https://warpcast.com/kiwi)</u> and <u>[Twitter](https://twitter.com/KiwiNewsHQ)</u> bots.
+You can share links you find interesting on our <u>[Submission page](https://news.kiwistand.com/submit?utm_source=kiwi_docs&utm_medium=website_owned&utm_campaign=kiwipass)</u>. Your link will automatically land in the <u>[/New tab](https://news.kiwistand.com/new?utm_source=kiwi_docs&utm_medium=website_owned&utm_campaign=kiwipass)</u>, and if it gets enough upvotes, it will move to the <u>[/Hot tab](https://news.kiwistand.com?utm_source=kiwi_docs&utm_medium=website_owned&utm_campaign=kiwipass)</u>. Most popular links get featured by our <u>[Weekly Newsletter](https://paragraph.xyz/@kiwi-weekly)</u>, <u>[Farcaster](https://warpcast.com/kiwi)</u> and <u>[Twitter](https://twitter.com/KiwiNewsHQ)</u> bots.
 
 For each upvote your link receives, you will get 1 <u>[Karma](/docs/kiwi-how-works/karma)</u> point. Before you submit a link, please check our <u>[Guidelines](https://news.kiwistand.com/guidelines)</u> to ensure that it fits the vibe.
 
@@ -32,7 +32,7 @@ You can also share your comments below the links. Our comment character limit is
 
 **4. Profile.**
 
-Each of our NFT holders gets a profile that records their submissions and <u>[Karma score](/docs/kiwi-how-works/karma)</u>. We also add your description and links from ENS, and if you don't use ENS, we take them from Farcaster. Here's an exemplary profile from <u>[Tim Daub](https://news.kiwistand.com/timdaub.eth)</u>.
+Each of our NFT holders gets a profile that records their submissions and <u>[Karma score](/docs/kiwi-how-works/karma)</u>. We also add your description and links from ENS, and if you don't use ENS, we take them from Farcaster. Here's an exemplary profile from <u>[Tim Daub](https://news.kiwistand.com/timdaub.eth?utm_source=kiwi_docs&utm_medium=website_owned&utm_campaign=kiwipass)</u>.
 
 **5. Access to the Telegram Channel.**
 

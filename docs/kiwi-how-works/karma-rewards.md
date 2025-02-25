@@ -4,13 +4,13 @@ sidebar_position: 4
 
 # Karma Rewards
 
-Kiwi earns revenue whenever someone mints a <u>[Kiwi Pass](https://news.kiwistand.com/kiwipass-mint)</u>
+Kiwi earns revenue whenever someone mints a <u>[Kiwi Pass](https://news.kiwistand.com/kiwipass-mint?utm_source=kiwi_docs&utm_medium=website_owned&utm_campaign=karma_rewards)</u>
 
 We take part of this revenue and automatically distribute it among the most active users. At this point, these users are 10 people who collected the most karma in the last 7 days.
 
 ### Sparks
 
-The amount of ETH distributed to people is displayed on <u>[Community Page](https://news.kiwistand.com/community)</u>
+The amount of ETH distributed to people is displayed on <u>[Community Page](https://news.kiwistand.com/community?utm_source=kiwi_docs&utm_medium=website_owned&utm_campaign=karma_rewards)</u>
 
 The symbol you can see next to people's names (✧) is Sparks. This is the name of a new unit of Ethereum, <u>[introduced by ZORA](https://zora.co/writings/sparks)</u>. 1 ETH = 1,000,000 ✧.
 
